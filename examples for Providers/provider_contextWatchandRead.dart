@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
-import 'package:statemanagement/Provider_context.dart';
-import 'package:statemanagement/changenotifierprovider.dart';
+import 'package:statemanagement/examples for Providers/Provider_context.dart';
+import 'package:statemanagement/examples for Providers/changenotifierprovider.dart';
 
 class watchandread extends StatefulWidget {
   const watchandread({super.key});

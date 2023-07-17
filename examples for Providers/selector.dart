@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
-import 'package:statemanagement/changenotifierprovider.dart';
+import 'package:statemanagement/examples for Providers/changenotifierprovider.dart';
 
 class slectorChangeBotifier extends StatefulWidget {
   const slectorChangeBotifier({super.key});
